@@ -1,6 +1,6 @@
 /**
  * Trang Luu
- * 24 APR 2019
+ * 24 APRIL 2019
  * Javascript Practice # 4
  */
 
